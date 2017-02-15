@@ -11,3 +11,10 @@ C:\ModBus\ModBusProtocol\bin\Debug\ModBus.exe
 C:\ModBus\ModBusProtocol\bin\Debug\ModBus.pdb
 C:\ModBus\ModBusProtocol\bin\Debug\EasyModbus.dll
 C:\ModBus\ModBusProtocol\obj\Debug\ModBus.csprojResolveAssemblyReference.cache
+C:\GitHub\ModBusProtocol\bin\Debug\ModBus.exe.config
+C:\GitHub\ModBusProtocol\obj\Debug\ModBus.exe
+C:\GitHub\ModBusProtocol\obj\Debug\ModBus.pdb
+C:\GitHub\ModBusProtocol\bin\Debug\ModBus.exe
+C:\GitHub\ModBusProtocol\bin\Debug\ModBus.pdb
+C:\GitHub\ModBusProtocol\bin\Debug\EasyModbus.dll
+C:\GitHub\ModBusProtocol\obj\Debug\ModBus.csprojResolveAssemblyReference.cache
